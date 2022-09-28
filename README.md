@@ -4,6 +4,10 @@ Convert Clojure Specs to Malli schemas at runtime.
 
 ## Installation
 
+```clojure
+dev.kwill/specalli {:mvn/version "1.0.1"}
+```
+
 ## Usage
 
 The library exposes a single API namespace `kwill.specalli` with the `mallize` function. The function takes a Clojure
