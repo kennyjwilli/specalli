@@ -8,6 +8,11 @@
         <option value="test" />
       </set>
     </option>
+    <option name="toolAliases">
+      <set>
+        <option value="build" />
+      </set>
+    </option>
   </component>
   <component name="DepsProjectsManager">
     <option name="projectFiles">
